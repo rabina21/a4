@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(218, 214, 214);
+    position: relative;
+}
+.page-wrapper{
+   
+    left: 500px;
+  position: absolute;
+}
+.top-wrapper{
+    background-color: white;
+    height: 700px;
+    margin-left: 160px;
+    position: absolute;
+    margin-top: 150px;
+    width: 1000px;
+}
+.top{
+    margin-left: 100px;
+}
+.middle{
+    position: absolute;
+  height: 100px;
+  width: 500px;
+    margin-top: 900px;
+    margin-left: 400px;
+}
+.last{
+    position: absolute;
+    margin-top: 1000px;
+    margin-left: 300px;
+    width: 650px;
+}
+
+.bottom{
+    position: absolute;
+    margin-top: 1550px;
+    margin-left: 300px;
+   
+}
